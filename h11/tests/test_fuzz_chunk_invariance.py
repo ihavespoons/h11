@@ -1,5 +1,7 @@
 """Keep the documented fuzzing chunk-boundary property in the test suite."""
 
+from __future__ import annotations
+
 from pathlib import Path
 from typing import Iterable
 
